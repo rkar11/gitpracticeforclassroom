@@ -1,0 +1,7 @@
+DEPENDENCIES
+  tomcat8
+    path: .
+    metadata: true
+
+GRAPH
+  tomcat8 (0.1.6)
